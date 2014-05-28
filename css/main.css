@@ -1,0 +1,89 @@
+ 
+ body{
+ 	background: #f1f1f1 url('../graph-tile.png');
+	margin: 0 auto;
+	padding: 0px;
+	width: 90%;
+	background: #FFF
+
+ }
+
+
+ .container{ 
+ top: 0px; 
+ left: 0px; 
+ width: 100%;
+ background: #f4efeb url('../graph-tile.png');
+ }
+
+
+  h1{
+  	top: 0px;  
+  	left: 0px;
+  	height: 100px;
+ 	margin: auto;
+ 	width: 100%;
+ 	/*border-bottom-right-radius: 5px;
+ 	border-bottom-left-radius: 5px;
+ 	box-shadow: 0px 2px 10px;*/
+ }
+ .hd{
+text-align: center; 	
+vertical-align: center;
+ 	 
+ }
+ .head-lists{
+ 	font-size: 20px;
+ }
+
+ ul {
+padding-top: 20px;
+text-align: center;
+list-style-type:none;
+margin:0;
+padding:0;
+}
+li{
+	padding: 15px;
+	display: inline-block;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+
+.footman{
+  	bottom: 75px;  
+  	position: relative;
+  	left: 0px;
+  	height: 100px;
+ 	margin: auto;
+ 	position: fixed;
+ 	width: 50%;
+ }
+ #headline{
+ 	font-size: 30px; }
+
+  #headline2{
+ 	font-size: 30px; }
+
+  #headline3{
+ 	font-size: 30px; }
+ a{
+ 	text-decoration: none;
+
+ }
+ a:link {color:#e02421;}      /* unvisited link */
+a:visited {color:#e02421;} 
+
+p.one 
+{
+border-style:solid;
+border-width:1px;
+border-right-style:solid;	
+}
+.image1{
+	z-index: -1
+}
+.image2{
+float: right;
+margin: auto 0;}
